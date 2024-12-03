@@ -24,6 +24,7 @@ class Lamp
     //}
 
     // Een dotnetter gebruikt properties.
+    // Gecontroleerde toegang tot een field (private)
     public int Intensiteit
     {
         get

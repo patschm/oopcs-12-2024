@@ -36,7 +36,8 @@ internal class Program
         // Property Initializers
         Lamp x42 = new Lamp { 
            Intensiteit = 2000, 
-            Kleur=ConsoleColor.Magenta };
+           Kleur=ConsoleColor.Magenta 
+        };
 
         x42.Aan();
         Console.WriteLine("Superlamp");
