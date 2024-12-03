@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overerving", "Overerving\Overerving.csproj", "{0B7DFDE4-9EEB-40CE-A90B-75B2A5EF4E2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overerving", "Overerving\Overerving.csproj", "{0B7DFDE4-9EEB-40CE-A90B-75B2A5EF4E2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tekenen", "Tekenen\Tekenen.csproj", "{9DD475C0-F806-4098-85C4-15C4E509F158}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0B7DFDE4-9EEB-40CE-A90B-75B2A5EF4E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B7DFDE4-9EEB-40CE-A90B-75B2A5EF4E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B7DFDE4-9EEB-40CE-A90B-75B2A5EF4E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DD475C0-F806-4098-85C4-15C4E509F158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD475C0-F806-4098-85C4-15C4E509F158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD475C0-F806-4098-85C4-15C4E509F158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD475C0-F806-4098-85C4-15C4E509F158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
