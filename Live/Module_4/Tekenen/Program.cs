@@ -4,19 +4,17 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        Figuur c1 = new Cirkel()
+        Cirkel c1 = new Cirkel()
         {
             Straal = 100,
             Kleur = ConsoleColor.DarkBlue
         };
-
         Figuur r1 = new Rechthoek()
         {
             Hoogte = 100,
             Breedte = 200,
             Kleur = ConsoleColor.Green
         };
-
         Figuur d1 = new Driehoek
         {
             Hoogte = 100,
